@@ -1,0 +1,1 @@
+# 20260629-practica-git-info1
